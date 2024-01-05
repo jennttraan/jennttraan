@@ -1,8 +1,7 @@
 Data Science Portfolio by Jenny Tran
-Aspiring Data Analyst and Beverage Ethusiast 
+Aspiring Data Analyst and Beverage Ethusiast <br>
 Find me on <a href=”www.linkedin.com/in/jennttraan”>linkedin</a>
 
-A coffee
 
 <!---
 jennttraan/jennttraan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
