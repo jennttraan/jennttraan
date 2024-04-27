@@ -1,9 +1,10 @@
 <h1 align="center">Hi, I'm Jenny!</h1>
 <h3 align="center">A passionate data analyst who loves making coffee.</h3>
 
-- 🌱 I’m currently learning all there is to know about coding and exploring data. Come with me on my journey. 
+- 🌱 I’m currently learning all there is to know about coding and exploring data. Come with me on my journey.
+- 🤝 I would love to connect and talk about data or business analysts positions.
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jennttraam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jennttraam" height="30" width="40" /></a>
 </p>
