@@ -1,5 +1,5 @@
-Data Science Portfolio by Jenny Tran
-Aspiring Data Analyst and Beverage Ethusiast 
+<b>Data Science Portfolio by Jenny Tran<br>
+Aspiring Data Analyst and Beverage Ethusiast </b>
 
 
 
