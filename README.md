@@ -2,7 +2,7 @@
 <h3 align="center">A passionate data analyst who loves making coffee.</h3>
 
 - 🌱 I’m currently learning all there is to know about coding and exploring data. Come with me on my journey.
-- 🤝 I'm eager to discuss opportunities in data or business analyst positions and explore how my skills and experience align with the requirements of the role.
+- 🤝 I'm eager to discuss opportunities in data or business analytics and explore how my skills and experience align with the requirements of the role.
 
 
 
